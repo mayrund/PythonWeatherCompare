@@ -43,7 +43,8 @@ def main():
 		for key, value in data.iteritems():
 		    print "%s - %s Celsius" % (key, value)
 		
-		print "\nHighest temperature is currenty at", max(data.iteritems(), key=operator.itemgetter(1))[0]
+		print "\n* Highest temperature is currenty at", max(data.iteritems(), key=operator.itemgetter(1))[0]
+		print "* Lowest temperature is currenty at", min(data.iteritems(), key=operator.itemgetter(1))[0]
 	except:
 		pass
 
