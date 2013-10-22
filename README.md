@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Python Weather Compare
 
 ## Introduction
@@ -35,8 +36,13 @@ When configuration is done, run the script from the command line:
 PythonWeatherCompare is distributed under the GPL V3 license. See `LICENSE` file for details.
 
 =======
+=======
+>>>>>>> 61eb69e4753b7899056ea9d831fe855b6936f290
 PythonWeatherCompare
 ====================
 
 Compare weather conditions (temperature) between two or more locations in your terminal.
+<<<<<<< HEAD
+>>>>>>> 61eb69e4753b7899056ea9d831fe855b6936f290
+=======
 >>>>>>> 61eb69e4753b7899056ea9d831fe855b6936f290
