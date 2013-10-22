@@ -10,7 +10,6 @@
 # fetch location temperatures and compares	#
 # between them.					#
 #						#
-#						#
 #################################################
 
 from json import load
