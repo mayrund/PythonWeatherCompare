@@ -19,7 +19,7 @@ import operator
 
 ##### Configuration #####
 baseurl = 'http://api.openweathermap.org/data/2.5/weather?q='
-cities = ["tel_aviv", "cluj"]
+cities = ["tel_aviv", "groningen"]
 substract = 273
 
 
