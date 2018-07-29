@@ -2,7 +2,7 @@
 
 ## Introduction
 PythonWeatherCompare is a shell script for comparing weather conditions (temperature) between two or more locations.  
-The script was written by Mayrun Digmi (mayrun@gmail.com) and uses public data from the `OpenWeatherMap` free weather API.
+The script was written by Mayrun and uses public data from the `OpenWeatherMap` free weather API.
 
 ## Requirements
 PythonWeatherCompare requires the following:
