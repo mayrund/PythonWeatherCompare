@@ -2,7 +2,7 @@
 
 #################################################
 #						#
-# PyCompareWeather 1.00 (c) by Mayrun     	#
+# PyCompareWeather 1.00 (c)              	#
 #						#
 # https://github.com/mayrund/pycompareweather	#
 #						#
